@@ -1,0 +1,7 @@
+langchain
+openai
+streamlit
+PyPDF2
+faiss-cpu
+tiktoken
+dill
